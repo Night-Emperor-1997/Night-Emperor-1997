@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Night-Emperor-1997/Night-Emperor-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](https://metrics.lecoq.io/night-emperor-1997?template=classic&followup=1&people=1&achievements=1&notable=1&fortune=1&pagespeed=1&traffic=1&introduction=1&sponsors=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&followup.archived=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&config.timezone=Asia%2FShanghai)
+
