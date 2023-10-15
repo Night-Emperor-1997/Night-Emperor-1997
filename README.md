@@ -13,3 +13,7 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Night-Emperor-1997's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Night-Emperor-1997&show_icons=true&count_private=true&theme=gotham)
+
