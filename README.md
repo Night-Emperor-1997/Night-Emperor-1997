@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 
 - Hello, I'm Night Emperor 👋
-- ![Night-Emperor-1997](https://komarev.com/ghpvc/?username=Night-Emperor-1997) ![Night-Emperor-1997](https://visitor-badge.glitch.me/badge?page_id=Night-Emperor-1997.profile)
-
+- ![Night-Emperor-1997](https://komarev.com/ghpvc/?username=Night-Emperor-1997)
 ## Tags
 
 - 🔭 _Searching Engine_ developer
@@ -29,9 +28,9 @@ Here are some ideas to get you started:
 - 👯 _never takes two_ follower
 - 🤔 _why does it run_ creator
 - 💬 _Hello World!_ tester
-- 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/sumygg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumyggsun@gmail.com)](mailto:sumyggsun@gmail.com)
-- 😄 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
-- ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:night.emperor.1997@gmail.com)](mailto:night.emperor.1997@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-Emperor-1997)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some Statistics About Me
 
