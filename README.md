@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Night-Emperor-1997)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Night-Emperor-1997&hide=javascript,html)](https://github.com/Night-Emperor-1997/github-readme-stats)
+
 ## Some Statistics About Me
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=Night-Emperor-1997&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
